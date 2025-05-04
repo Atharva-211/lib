@@ -1,0 +1,4 @@
+//This is a comment
+Hello World!
+An apple a day.
+/* multi-line comment */

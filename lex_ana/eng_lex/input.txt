@@ -1,0 +1,7 @@
+flex eng.l
+gcc lex.yy.c -o lexer
+./lexer <  input.txt
+
+The dog runs in the park.
+She eats an apple under the tree.
+He says, "Hello there!"
