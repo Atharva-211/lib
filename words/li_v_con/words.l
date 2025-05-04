@@ -14,8 +14,8 @@
 #define COUNT_COMMENTS
 
 // Uncomment one conversion mode if you want to see converted text
-#define CONVERT_UPPER
-// #define CONVERT_LOWER
+//#define CONVERT_UPPER
+//#define CONVERT_LOWER
 // ──────────────────────────────────────────────────────────────────
 
 int line_count = 0;
